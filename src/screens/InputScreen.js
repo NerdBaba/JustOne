@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import {
   View,
@@ -109,7 +110,6 @@ const InputScreen = ({ navigation }) => {
           value={text}
           onChangeText={setText}
           multiline
-          // autoFocus
         />
         {image && (
           <Image source={{ uri: image }} style={styles.imagePreview} />

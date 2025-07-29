@@ -95,6 +95,7 @@ export default function App() {
                 </TouchableOpacity>
               ),
             })}
+            initialParams={{ logoXml: logoXml }} // Pass logoXml as initial param
           />
           <Stack.Screen
             name="Input"

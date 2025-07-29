@@ -24,13 +24,8 @@ if (
   UIManager.setLayoutAnimationEnabledExperimental(true);
 }
 
-const logoXml = `<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="50" cy="50" r="48" fill="#f7f1ed" stroke="#151513" stroke-width="4"/>
-<text x="50%" y="50%" text-anchor="middle" dy=".3em" font-family="Lora-Regular" font-size="50" fill="#151513">1</text>
-</svg>
-`;
-
-const MainScreen = ({ navigation }) => {
+const MainScreen = ({ navigation, route }) => {
+  const { logoXml } = route.params;
   const [entries, setEntries] = useState([]);
   const [canAddEntry, setCanAddEntry] = useState(true);
   const [devMode, setDevMode] = useState(false);
