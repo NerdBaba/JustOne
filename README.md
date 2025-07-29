@@ -2,6 +2,7 @@
 
 A minimalist journaling or accountability app where you can add exactly one thing per day. It could be one photo, one sentence, or one checklist item you completed. The severe constraint is the entire feature. It fights the pressure of elaborate journaling by making the goal absurdly achievable.
 
+
 ## Features
 
 - **One Entry Per Day**: Strictly enforces a single entry per day (text, image, or both).
@@ -17,7 +18,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/JustOne.git
+    git clone https://github.com/NerdBaba/JustOne.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
