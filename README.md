@@ -2,6 +2,9 @@
 
 A minimalist journaling or accountability app where you can add exactly one thing per day. It could be one photo, one sentence, or one checklist item you completed. The severe constraint is the entire feature. It fights the pressure of elaborate journaling by making the goal absurdly achievable.
 
+<img width="2680" height="1508" alt="justone-1" src="https://github.com/user-attachments/assets/d1b59dcc-0355-459a-a8c6-11b5ff661719" />
+<img width="2680" height="1508" alt="justone-2" src="https://github.com/user-attachments/assets/ff4b1ec7-7fc0-48d9-b684-76fe9ff06207" />
+<img width="2680" height="1508" alt="justone-3" src="https://github.com/user-attachments/assets/282cb74f-48e0-4530-a6ee-83f35dc36d4e" />
 
 ## Features
 
